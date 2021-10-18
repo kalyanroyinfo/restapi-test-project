@@ -1,0 +1,12 @@
+<testData name="practise-tests">
+    <channel name="API">
+        <testcase name="getAuthorization">
+            <dataset>
+                <getAuthorizationAPIURL>/Account/v1/GenerateToken</getAuthorizationAPIURL>
+                <userName>TOOLSQA-Test</userName>
+                <password>Test@@123</password>
+            </dataset>
+    </testcase>
+    </channel>
+</testData>
+
